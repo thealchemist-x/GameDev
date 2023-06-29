@@ -1,5 +1,5 @@
 # GameDev
-A prototype developed over a 2 day Game Jam
+A prototype developed over a 2 day Game Jam </br>
 Best viewed with 4K display resolution </br> 
 Game Link: https://thealchemist-x.github.io/GameDev/ </br>
 Press 'P' - Pause game</br>
