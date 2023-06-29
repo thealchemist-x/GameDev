@@ -1,4 +1,6 @@
 # GameDev
+A prototype developed over a 2 day Game Jam
+Best viewed with 4K display resolution </br> 
 Game Link: https://thealchemist-x.github.io/GameDev/ </br>
 Press 'P' - Pause game</br>
 Press 'T' - Teleport when you are close to obstacle</br>
